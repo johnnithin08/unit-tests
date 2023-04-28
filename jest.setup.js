@@ -1,4 +1,4 @@
-
+import { format } from "util";
 
 // Note: Jest doesn't fail a test when the error is handled using console.error
 // This function was created to fail a test when there is a console.error
